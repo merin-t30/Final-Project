@@ -1,4 +1,4 @@
-Emotion Detection System
+final-project:Emotion Detection System
 
 This project is an AI-powered Web Application that analyzes the emotional tone of a given text. It utilizes Python and the Flask web framework to provide a user interface where individuals can enter statements and receive a detailed breakdown of the emotions detected.
 
